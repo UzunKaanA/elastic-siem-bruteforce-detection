@@ -79,4 +79,21 @@ Sysmon Event Logs ile davranış analizi ekleme
 Login source-IP coğrafi korelasyonu (GeoIP)
 Elastic Machine Learning tetikleyici oluşturma
 
+---
+
+## 📸 Ekran Görüntüleri
+
+### 🔹 1. Windows 4625 logları (Discover görünümü)
+![Windows 4625 logları](images/logs.png)
+
+### 🔹 2. Detection Rule konfigürasyonu
+![Detection Rule](images/rule1.png)
+
+### 🔹 3. Üretilen Alert
+![Alert ekranı](images/alert.png)
+
+### 🔹 4. MITRE ATT&CK eşleşmesi
+![MITRE Mapping](images/rule.png)
+
+
 [LinkedIn Profili — Kaan Arda Uzun](https://www.linkedin.com/in/uzunkaana/)
